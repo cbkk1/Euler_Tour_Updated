@@ -1,0 +1,189 @@
+Running ./a.out with vertices = 1 and root vertex = 0...
+Enter the number of vertices: Enter the root vertex:
+Serial Execution Time: 720 ns
+Parallel Execution Time: 39999 ns
+Not Same
+Same
+---------------------------------------
+Running ./a.out with vertices = 2 and root vertex = 1...
+Enter the number of vertices: Enter the root vertex:
+Serial Execution Time: 767 ns
+Parallel Execution Time: 161888 ns
+Same
+Same
+---------------------------------------
+Running ./a.out with vertices = 4 and root vertex = 2...
+Enter the number of vertices: Enter the root vertex:
+Serial Execution Time: 925 ns
+Parallel Execution Time: 169888 ns
+Same
+Same
+---------------------------------------
+Running ./a.out with vertices = 8 and root vertex = 2...
+Enter the number of vertices: Enter the root vertex:
+Serial Execution Time: 1586 ns
+Parallel Execution Time: 227264 ns
+Same
+Same
+---------------------------------------
+Running ./a.out with vertices = 16 and root vertex = 4...
+Enter the number of vertices: Enter the root vertex:
+Serial Execution Time: 2563 ns
+Parallel Execution Time: 178463 ns
+Same
+Same
+---------------------------------------
+Running ./a.out with vertices = 32 and root vertex = 29...
+Enter the number of vertices: Enter the root vertex:
+Serial Execution Time: 2626 ns
+Parallel Execution Time: 185248 ns
+Same
+Same
+---------------------------------------
+Running ./a.out with vertices = 64 and root vertex = 4...
+Enter the number of vertices: Enter the root vertex:
+Serial Execution Time: 7030 ns
+Parallel Execution Time: 191295 ns
+Same
+Same
+---------------------------------------
+Running ./a.out with vertices = 128 and root vertex = 81...
+Enter the number of vertices: Enter the root vertex:
+Serial Execution Time: 8594 ns
+Parallel Execution Time: 194560 ns
+Same
+Same
+---------------------------------------
+Running ./a.out with vertices = 256 and root vertex = 120...
+Enter the number of vertices: Enter the root vertex:
+Serial Execution Time: 28183 ns
+Parallel Execution Time: 205247 ns
+Same
+Same
+---------------------------------------
+Running ./a.out with vertices = 512 and root vertex = 367...
+Enter the number of vertices: Enter the root vertex:
+Serial Execution Time: 54477 ns
+Parallel Execution Time: 218079 ns
+Same
+Same
+---------------------------------------
+Running ./a.out with vertices = 1024 and root vertex = 999...
+Enter the number of vertices: Enter the root vertex:
+Serial Execution Time: 106733 ns
+Parallel Execution Time: 235103 ns
+Same
+Same
+---------------------------------------
+Running ./a.out with vertices = 2048 and root vertex = 1378...
+Enter the number of vertices: Enter the root vertex:
+Serial Execution Time: 188965 ns
+Parallel Execution Time: 276959 ns
+Same
+Same
+---------------------------------------
+Running ./a.out with vertices = 4096 and root vertex = 2043...
+Enter the number of vertices: Enter the root vertex:
+Serial Execution Time: 457651 ns
+Parallel Execution Time: 322495 ns
+Same
+Same
+---------------------------------------
+Running ./a.out with vertices = 8192 and root vertex = 8092...
+Enter the number of vertices: Enter the root vertex:
+Serial Execution Time: 493747 ns
+Parallel Execution Time: 435584 ns
+Same
+Same
+---------------------------------------
+Running ./a.out with vertices = 16384 and root vertex = 13540...
+Enter the number of vertices: Enter the root vertex:
+Serial Execution Time: 1755314 ns
+Parallel Execution Time: 574495 ns
+Same
+Same
+---------------------------------------
+Running ./a.out with vertices = 32768 and root vertex = 9371...
+Enter the number of vertices: Enter the root vertex:
+Serial Execution Time: 2390734 ns
+Parallel Execution Time: 901087 ns
+Same
+Same
+---------------------------------------
+Running ./a.out with vertices = 65536 and root vertex = 17572...
+Enter the number of vertices: Enter the root vertex:
+Serial Execution Time: 5370647 ns
+Parallel Execution Time: 1560479 ns
+Same
+Same
+---------------------------------------
+Running ./a.out with vertices = 131072 and root vertex = 7782...
+Enter the number of vertices: Enter the root vertex:
+Serial Execution Time: 11401032 ns
+Parallel Execution Time: 2827903 ns
+Same
+Same
+---------------------------------------
+Running ./a.out with vertices = 262144 and root vertex = 17510...
+Enter the number of vertices: Enter the root vertex:
+Serial Execution Time: 24022518 ns
+Parallel Execution Time: 5310048 ns
+Same
+Same
+---------------------------------------
+Running ./a.out with vertices = 524288 and root vertex = 2603...
+Enter the number of vertices: Enter the root vertex:
+Serial Execution Time: 39499128 ns
+Parallel Execution Time: 10037919 ns
+Same
+Same
+---------------------------------------
+Running ./a.out with vertices = 1048576 and root vertex = 14561...
+Enter the number of vertices: Enter the root vertex:
+Serial Execution Time: 90540027 ns10226537208
+Parallel Execution Time: 19873535 ns
+Same
+Same
+---------------------------------------
+Running ./a.out with vertices = 2097152 and root vertex = 22298...
+Enter the number of vertices: Enter the root vertex:
+Serial Execution Time: 280690810 ns
+Parallel Execution Time: 39905952 ns
+Same
+Same
+---------------------------------------
+Running ./a.out with vertices = 4194304 and root vertex = 10591...
+Enter the number of vertices: Enter the root vertex:
+Serial Execution Time: 813729431 ns
+Parallel Execution Time: 80616065 ns
+Same
+Same
+---------------------------------------
+Running ./a.out with vertices = 8388608 and root vertex = 8671...
+Enter the number of vertices: Enter the root vertex:
+Serial Execution Time: 2172775168 ns
+Parallel Execution Time: 160301254 ns
+Same
+Same
+---------------------------------------
+Running ./a.out with vertices = 16777216 and root vertex = 15659...
+Enter the number of vertices: Enter the root vertex:
+Serial Execution Time: 4891686797 ns
+Parallel Execution Time: 327020996 ns
+Same
+Same
+---------------------------------------
+Running ./a.out with vertices = 33554432 and root vertex = 1361...
+Enter the number of vertices: Enter the root vertex:
+Serial Execution Time: 10226537208 ns
+Parallel Execution Time: 597320434 ns
+Same
+Same
+---------------------------------------
+Running ./a.out with vertices = 67108864 and root vertex = 5287...
+Enter the number of vertices: Enter the root vertex:
+Serial Execution Time: 24189852764 ns
+Parallel Execution Time: 2171726806 ns
+Same
+Same
+---------------------------------------
